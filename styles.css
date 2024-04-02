@@ -1,5 +1,4 @@
 h1 {
-    font-family: Monaco, Arial, 'monospace';
     text-align: center;
     background-color: #fce303;
 }
@@ -7,4 +6,9 @@ h1 {
 a {
     color:black;
     font-size: 20px;
+}
+
+* {
+    background-color: #d3c01273;
+    font-family: Monaco, Arial, 'monospace';
 }
